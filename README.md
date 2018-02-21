@@ -7,3 +7,5 @@ This repository contains training content on Deep Learning for Artificial Intell
 
 * [First Contact with Tensorflow](http://jorditorres.org/research-teaching/tensorflow/first-contact-with-tensorflow-book/first-contact-with-tensorflow/): This is a fantastic textbook written by the course author himself and it begins from the very scratch assuming a zero knowledge on tensorflow as pre-requisite. 
 
+## References
+* [Deep Learning Book](http://www.deeplearningbook.org/)
