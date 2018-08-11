@@ -9,3 +9,8 @@ This repository contains training content on Deep Learning for Artificial Intell
 
 ## References
 * [Deep Learning Book](http://www.deeplearningbook.org/)
+* [Deep Learning Winter School](https://telecombcn-dl.github.io/2018-idl/)
+* [Deep Learning Summer School](https://telecombcn-dl.github.io/2018-dlcv/)
+* [Deep Learning for Artificial Intelligence](https://telecombcn-dl.github.io/2017-dlai/)
+
+
