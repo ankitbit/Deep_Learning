@@ -14,3 +14,5 @@ This repository contains training content on Deep Learning for Artificial Intell
 * [Deep Learning for Artificial Intelligence](https://telecombcn-dl.github.io/2017-dlai/)
 
 
+## Textbooks
+* [Getting Started with Deep Learning]()
