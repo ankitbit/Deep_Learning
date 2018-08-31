@@ -15,6 +15,7 @@ This repository contains training content on Deep Learning for Artificial Intell
 * [Keras Resources](https://github.com/fchollet/keras-resources/blob/master/README.md)
 * [Machine Learning and Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 * [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning#tutorials)
+* [Deep Learning @Ohio](http://ace.cs.ohiou.edu/~razvan/courses/dl6890/index.html)
 
 ## Textbooks
 * [Getting Started with Deep Learning]()
