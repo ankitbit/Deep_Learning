@@ -12,7 +12,9 @@ This repository contains training content on Deep Learning for Artificial Intell
 * [Deep Learning Winter School](https://telecombcn-dl.github.io/2018-idl/)
 * [Deep Learning Summer School](https://telecombcn-dl.github.io/2018-dlcv/)
 * [Deep Learning for Artificial Intelligence](https://telecombcn-dl.github.io/2017-dlai/)
-
+* [Keras Resources](https://github.com/fchollet/keras-resources/blob/master/README.md)
+* [Machine Learning and Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
+* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning#tutorials)
 
 ## Textbooks
 * [Getting Started with Deep Learning]()
