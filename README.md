@@ -23,3 +23,4 @@ This repository contains training content on Deep Learning for Artificial Intell
 ## Dataset sources
 * [University of Edinburgh, Computer Vision Datasets](http://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm#remote)
 * [Carnegie Mellon Univeristy](https://www.cs.cmu.edu/~cil/v-images.html)
+* [Caltech Computer Vision Datasets](http://www.vision.caltech.edu/archive.html)
