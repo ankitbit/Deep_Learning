@@ -9,6 +9,7 @@ This repository contains training content on Deep Learning for Artificial Intell
 
 ## References
 * [Deep Learning Book](http://www.deeplearningbook.org/)
+* [Deep Learning- Carnegie Mellon University](http://deeplearning.cs.cmu.edu/)
 * [Deep Learning Winter School](https://telecombcn-dl.github.io/2018-idl/)
 * [Deep Learning Summer School](https://telecombcn-dl.github.io/2018-dlcv/)
 * [Deep Learning for Artificial Intelligence](https://telecombcn-dl.github.io/2017-dlai/)
@@ -19,6 +20,7 @@ This repository contains training content on Deep Learning for Artificial Intell
 * [Princeton](http://3dvision.princeton.edu/courses.html)
 ## Textbooks
 * [Getting Started with Deep Learning]()
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
 
 ## Dataset sources
 * [University of Edinburgh, Computer Vision Datasets](http://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm#remote)
