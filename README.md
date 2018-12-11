@@ -26,3 +26,7 @@ This repository contains training content on Deep Learning for Artificial Intell
 * [University of Edinburgh, Computer Vision Datasets](http://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm#remote)
 * [Carnegie Mellon Univeristy](https://www.cs.cmu.edu/~cil/v-images.html)
 * [Caltech Computer Vision Datasets](http://www.vision.caltech.edu/archive.html)
+
+
+## Futuristic Resources
+* [CS 598 LAZ: Cutting-Edge Trends in Deep Learning and Recognition](http://slazebni.cs.illinois.edu/spring17/)
