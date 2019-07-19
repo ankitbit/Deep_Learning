@@ -13,7 +13,7 @@ This repository contains training content on Deep Learning for Artificial Intell
 - Predicting Diabetes with Multilayer Perceptrons
 - Predicting Taxi Fares with Deep Feedforward Networks
 - Cats Versus Dogs - Image Classification Using CNNs
-- Removing Noise from Images Using Autoencoders
+- Removing Noise from Images Using Autoencoders [Denoising Autoencoders](https://www.kaggle.com/aakashnain/denoising-autoencoders-to-the-rescue)
 - Sentiment Analysis of Movie Reviews Using LSTM
 - Implementing a Facial Recognition System with Neural Networks
 - [Activity Classification in Videos](https://www.pyimagesearch.com/2019/07/15/video-classification-with-keras-and-deep-learning/)
