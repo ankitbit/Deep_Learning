@@ -16,6 +16,7 @@ This repository contains training content on Deep Learning for Artificial Intell
 - Removing Noise from Images Using Autoencoders
 - Sentiment Analysis of Movie Reviews Using LSTM
 - Implementing a Facial Recognition System with Neural Networks
+- [Activity Classification in Videos](https://www.pyimagesearch.com/2019/07/15/video-classification-with-keras-and-deep-learning/)
 
 ## References
 * [Deep Learning Book](http://www.deeplearningbook.org/)
