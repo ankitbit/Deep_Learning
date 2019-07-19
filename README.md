@@ -31,3 +31,4 @@ This repository contains training content on Deep Learning for Artificial Intell
 ## Futuristic Resources
 * [CS 598 LAZ: Cutting-Edge Trends in Deep Learning and Recognition](http://slazebni.cs.illinois.edu/spring17/)
 * [Deep Learning for Unsupervised Learning](https://sites.google.com/view/berkeley-cs294-158-sp19/home)
+* [Deep Learning Tutorials](http://deeplearning.net/tutorial/deeplearning.pdf): Python+ Theano
