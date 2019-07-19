@@ -18,6 +18,7 @@ This repository contains training content on Deep Learning for Artificial Intell
 - Implementing a Facial Recognition System with Neural Networks
 - [Activity Classification in Videos](https://www.pyimagesearch.com/2019/07/15/video-classification-with-keras-and-deep-learning/)
 - [Detecting Parkinson's Disease with Computer Vision](https://www.pyimagesearch.com/2019/04/29/detecting-parkinsons-disease-with-opencv-computer-vision-and-the-spiral-wave-test/)
+- [Detecting Breast Cancer with Keras](https://www.pyimagesearch.com/2019/02/18/breast-cancer-classification-with-keras-and-deep-learning/)
 
 
 ## References
