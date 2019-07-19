@@ -7,6 +7,16 @@ This repository contains training content on Deep Learning for Artificial Intell
 
 * [First Contact with Tensorflow](http://jorditorres.org/research-teaching/tensorflow/first-contact-with-tensorflow-book/first-contact-with-tensorflow/): This is a fantastic textbook written by the course author himself and it begins from the very scratch assuming a zero knowledge on tensorflow as pre-requisite. 
 
+
+## Salient Projects
+- Machine Learning and Neural Networks 101
+- Predicting Diabetes with Multilayer Perceptrons
+- Predicting Taxi Fares with Deep Feedforward Networks
+- Cats Versus Dogs - Image Classification Using CNNs
+- Removing Noise from Images Using Autoencoders
+- Sentiment Analysis of Movie Reviews Using LSTM
+- Implementing a Facial Recognition System with Neural Networks
+
 ## References
 * [Deep Learning Book](http://www.deeplearningbook.org/)
 * [Deep Learning- Carnegie Mellon University](http://deeplearning.cs.cmu.edu/)
