@@ -32,6 +32,10 @@ This repository contains training content on Deep Learning for Artificial Intell
 * [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning#tutorials)
 * [Deep Learning @Ohio](http://ace.cs.ohiou.edu/~razvan/courses/dl6890/index.html)
 * [Princeton](http://3dvision.princeton.edu/courses.html)
+
+## Tutorials
+- [Udacity Deep Learning Nanodegree](https://github.com/udacity/deep-learning-v2-pytorch)
+
 ## Textbooks
 * [Getting Started with Deep Learning]()
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
