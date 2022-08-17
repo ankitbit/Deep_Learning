@@ -80,7 +80,7 @@ You're ready to write the code to calculate this slope while using a single data
 preds = (weights * input_data).sum()
 
 # Calculate the error: error
-error = target - preds
+error = preds - target
 
 # Calculate the slope: slope
 slope = 2 * input_data * error
